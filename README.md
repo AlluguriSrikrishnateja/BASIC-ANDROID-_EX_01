@@ -121,28 +121,33 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 ## OnCreate Executed:
 
-<img width="148" alt="image" src="https://github.com/user-attachments/assets/f1dce3e2-64f0-4100-92fa-795d2a88ea77">
+![On_create](https://github.com/user-attachments/assets/3d0d1b13-0ecd-4428-bae3-4f838b748970)
+
 
 
 ## OnPause Executed:
 
-<img width="153" alt="image" src="https://github.com/user-attachments/assets/5ad3ce94-bd9c-4049-9755-be00b59b8849">
+![On_pause](https://github.com/user-attachments/assets/6a6c275f-1346-4a1d-b3cf-988a00352be9)
+
 
 
 ## OnResume Executed:
 
-<img width="151" alt="image" src="https://github.com/user-attachments/assets/927b122c-922d-4568-9669-60a329d01659">
+![On_resume](https://github.com/user-attachments/assets/68864d34-0ddf-4c4b-9312-f6290eb1317a)
+
 
 
 ## OnRestart Executed:
 
-<img width="150" alt="image" src="https://github.com/user-attachments/assets/a351f593-8b09-4213-af9e-f9ee173cf8bd">
+![On_restart](https://github.com/user-attachments/assets/d553e478-3ef5-43d3-a54d-73510ae7679a)
+
 
 
 
 ## OnStart Executed:
 
-<img width="150" alt="image" src="https://github.com/user-attachments/assets/a840e3e9-8745-4c93-adcb-062f92c28e09">
+![On_start](https://github.com/user-attachments/assets/f92ea470-e234-424e-97cc-a37789d8b5e3)
+
 
 
 ## RESULT:
