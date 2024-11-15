@@ -121,32 +121,32 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 ## OnCreate Executed:
 
-![On_create](https://github.com/user-attachments/assets/3d0d1b13-0ecd-4428-bae3-4f838b748970)
+<img src="https://github.com/user-attachments/assets/3d0d1b13-0ecd-4428-bae3-4f838b748970" width=200>
 
 
 
 ## OnPause Executed:
 
-![On_pause](https://github.com/user-attachments/assets/6a6c275f-1346-4a1d-b3cf-988a00352be9)
+<img src="https://github.com/user-attachments/assets/6a6c275f-1346-4a1d-b3cf-988a00352be9" width=200>
 
 
 
 ## OnResume Executed:
 
-![On_resume](https://github.com/user-attachments/assets/68864d34-0ddf-4c4b-9312-f6290eb1317a)
+<img src="https://github.com/user-attachments/assets/68864d34-0ddf-4c4b-9312-f6290eb1317a" width=200>
 
 
 
 ## OnRestart Executed:
 
-![On_restart](https://github.com/user-attachments/assets/d553e478-3ef5-43d3-a54d-73510ae7679a)
+<img src="https://github.com/user-attachments/assets/d553e478-3ef5-43d3-a54d-73510ae7679a" width=200>
 
 
 
 
 ## OnStart Executed:
 
-![On_start](https://github.com/user-attachments/assets/f92ea470-e234-424e-97cc-a37789d8b5e3)
+<img src="https://github.com/user-attachments/assets/f92ea470-e234-424e-97cc-a37789d8b5e3" width=200>
 
 
 
